@@ -72,6 +72,7 @@
 
 .advantages_each img {
     max-width: 40%;
+    margin: 6% 0 4%;
 }
 
 
@@ -112,11 +113,14 @@
     max-height: 80px;
 }
 .program_title {
-    vertical-align: middle;
+    padding: 1%;
 }
 .program_hour {
     min-height: 80px;
     padding: 35px;
+}
+.coffee_break {
+    padding-top: 2.5%;
 }
 
 
