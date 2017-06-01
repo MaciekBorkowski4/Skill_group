@@ -65,8 +65,39 @@
 }
 /*menu responsywne koniec*/
 
+/*co nas wyróżnia*/
+#advantages_section {
+    margin: 6% 0;
+}
+
+.advantages_each img {
+    max-width: 40%;
+}
+
+
+
+
+
+/*co nas wyróżnia koniec*/
+
+
+/*organizator i partnerzy*/
+#org_partners {
+    margin: 6% 0;
+}
+
+/*czego się dowiesz*/
+#get_know {
+    margin: 6% 0;
+}
+
+
 
 /*PROGRAM*/
+#program {
+    margin: 6% 0;
+}
+
 .program_photo_div {
     padding: 5px;
     min-height: 80px;
@@ -88,7 +119,12 @@
     padding: 35px;
 }
 
+
 /*PRELEGENCI*/
+#prelegenci {
+    margin: 6% 0;
+}
+
 .prelegenci_opis {
     padding: 25px 35px 15px 25px;
     text-align: justify;
